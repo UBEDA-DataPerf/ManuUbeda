@@ -1,7 +1,9 @@
 <h1>Hi, I'm Emmanuel UBEDA! <br/><a 
 
-# My Portfolio  CECI EST UN MODELE
+<!-- My Portfolio  CECI EST UN MODELE -->
+<h2> Bienvenue dans mon projet ! Voici un aperçu rapide de ce que ce projet fait.
 
+<!--
 Welcome to my portfolio! Here you can find my projects and details about my experience.
 ![Power BI](https://img.shields.io/badge/Business%20Intelligence-Power%20BI-informational?style=flat&logo=powerbi&color=F2C811)
 ![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sqlite&color=003B57)
@@ -14,42 +16,51 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 # ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 # ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
+# <img width="1386" alt="Capture d'écran 2024-11-08 à 16 53 40" src="https://github.com/user-attachments/assets/d91d82f9-8bb1-44a8-ab93-dbe43959c731" />
+<h2>:male-technologist: Data Analysis Development Projects:</h2>
+
+# - <b>Final study cas with databird</b>
+#   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+# <h2>📺 Popular YouTube Videos</h2>
+#- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+-->
+
+Welcome to my portfolio! Here you can find my projects and details about my experience.
+![Power BI](https://img.shields.io/badge/Business%20Intelligence-Power%20BI-informational?style=flat&logo=powerbi&color=F2C811)
+![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sqlite&color=003B57)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 
 ## Download My CV
 
 [![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/UBEDA-DataPerf/ManuUbeda/blob/d2d7a0f27ac7bfa964f32cd80b2c8f717136f068/CV%20Ubeda.pdf)
 [Click here to download my CV](https://github.com/UBEDA-DataPerf/ManuUbeda/blob/d2d7a0f27ac7bfa964f32cd80b2c8f717136f068/CV%20Ubeda.pdf)
 
-# <img width="1386" alt="Capture d'écran 2024-11-08 à 16 53 40" src="https://github.com/user-attachments/assets/d91d82f9-8bb1-44a8-ab93-dbe43959c731" />
-
-<h2>:male-technologist: Data Analysis Development Projects:</h2>
 
 
+# Mes projets 📺
 
-- <b>Final study cas with databird</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-## Mes projets
 ### Projet 1 : Analyse de la performance de lignes de presses   
 - **Description** : Analyse de la performance des moyens industriels du Site de production STELLANTIS à Sochaux. Il s'agit de définir un tableau de bord avec les KPIs principaux, de donner les moyens d'analyses des arrêts et pannes, et de suivre l'evolutions des la performance en fonctions des equipements et des gammes  
 - **Technologies** : Python, Pandas, Matplotlib, SQL, PowerBi. 
-- [Lien vers le projet](https://github.com/Yacine-Hamdi/Netflix)
+- <!-- [Lien vers le projet](https://github.com/Yacine-Hamdi/Netflix)
+- <!--- **Lien vers le projet** : [lien vers le projet GitHub]() -->
 
-### Projet 2 : Analyse des sentiments sur Twitter
-- **Description** : Utilisation du scraping pour analyser les sentiments des utilisateurs sur Twitter autour d'un sujet donné.
-- **Technologies** : BeautifulSoup, pandas, scikit-learn, WordCloud.
-- **Lien vers le projet** : [lien vers le projet GitHub]()
+### Projet 2 : Matrice de compétences des équipes
+- **Description** : Animer la compétence du personnel en fonction des caratéristiques de la machine (ici lignes de presses)
+- **Technologies** : WordCloud, Excel, PowerBi.
+<!--- **Lien vers le projet** : [lien vers le projet GitHub]() -->
 
-### Projet 3 : Prévision des stocks avec des séries temporelles
-- **Description** : Application de modèles de séries temporelles pour prévoir les niveaux de stock d'un produit.
-- **Technologies** : Python, statsmodels, Matplotlib.
-- **Lien vers le projet** : [lien vers le projet GitHub](#)
-  
-<h2> 🤳 Connect with me:</h2>
+### Projet 3 : Suivi du Stock de matière première
+- **Description** : Application d'un modèles permettant de suivre les stocks de matière.
+- **Technologies** : PowerBI.
+<!--- **Lien vers le projet** : [lien vers le projet GitHub]() -->
+
+### Projet 4: Suivi des effectifs et des heures de production réalisées
+- **Description** : Application d'un modèles permettant de suivre les effectifs des équipes de productions.
+- **Technologies** : PowerBI.
+<!--- **Lien vers le projet** : [lien vers le projet GitHub]() -->
+
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
