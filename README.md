@@ -20,7 +20,7 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 [![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/UBEDA-DataPerf/ManuUbeda/blob/d2d7a0f27ac7bfa964f32cd80b2c8f717136f068/CV%20Ubeda.pdf)
 [Click here to download my CV](https://github.com/UBEDA-DataPerf/ManuUbeda/blob/d2d7a0f27ac7bfa964f32cd80b2c8f717136f068/CV%20Ubeda.pdf)
 
-<img width="1386" alt="Capture d'écran 2024-11-08 à 16 53 40" src="https://github.com/user-attachments/assets/d91d82f9-8bb1-44a8-ab93-dbe43959c731" />
+# <img width="1386" alt="Capture d'écran 2024-11-08 à 16 53 40" src="https://github.com/user-attachments/assets/d91d82f9-8bb1-44a8-ab93-dbe43959c731" />
 
 <h2>:male-technologist: Data Analysis Development Projects:</h2>
 
@@ -34,9 +34,9 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 ## Mes projets
-### Projet 1 : Analyse du catalogue Netflix vs. Attentes des abonnés  
-- **Description** : Analyse de l'adéquation entre le catalogue Netflix et les préférences des utilisateurs en utilisant le rapport *What We Want*. Scraping des contenus Netflix et comparaison avec les tendances des abonnés.  
-- **Technologies** : Python, BeautifulSoup, pandas, Matplotlib, SQL. 
+### Projet 1 : Analyse de la performance de lignes de presses   
+- **Description** : Analyse de la performance des moyens industriels du Site de production STELLANTIS à Sochaux. Il s'agit de définir un tableau de bord avec les KPIs principaux, de donner les moyens d'analyses des arrêts et pannes, et de suivre l'evolutions des la performance en fonctions des equipements et des gammes  
+- **Technologies** : Python, Pandas, Matplotlib, SQL, PowerBi. 
 - [Lien vers le projet](https://github.com/Yacine-Hamdi/Netflix)
 
 ### Projet 2 : Analyse des sentiments sur Twitter
