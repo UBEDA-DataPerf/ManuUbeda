@@ -1,7 +1,7 @@
 <h1>Hi, I'm Emmanuel UBEDA! <br/><a 
 
 <!-- My Portfolio  CECI EST UN MODELE -->
-<h2> Bienvenue dans mon porteFolio ! Voici un aperçu rapide de mes projets réalisés.
+<h2> Bienvenue dans mon porteFolio ! Voici un aperçu rapide de la réalisation de mes projets.
 
 <!--
 Welcome to my portfolio! Here you can find my projects and details about my experience.
