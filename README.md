@@ -17,8 +17,8 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 
 ## Download My CV
 
-[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/Yacine-Hamdi/Yacine-hamdi/blob/main/CV_Yacine_Hamdi.pdf)
-[Click here to download my CV](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
+[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/UBEDA-DataPerf/ManuUbeda/blob/d2d7a0f27ac7bfa964f32cd80b2c8f717136f068/CV%20Ubeda.pdf)
+[Click here to download my CV](https://github.com/UBEDA-DataPerf/ManuUbeda/blob/d2d7a0f27ac7bfa964f32cd80b2c8f717136f068/CV%20Ubeda.pdf)
 
 <img width="1386" alt="Capture d'écran 2024-11-08 à 16 53 40" src="https://github.com/user-attachments/assets/d91d82f9-8bb1-44a8-ab93-dbe43959c731" />
 
