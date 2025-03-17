@@ -1,7 +1,7 @@
 <h1>Hi, I'm Emmanuel UBEDA! <br/><a 
 
 <!-- My Portfolio  CECI EST UN MODELE -->
-<h2> Bienvenue dans mon projet ! Voici un aperçu rapide de ce que ce projet fait.
+<h2> Bienvenue dans mon porteFolio ! Voici un aperçu rapide de mes projets réalisés.
 
 <!--
 Welcome to my portfolio! Here you can find my projects and details about my experience.
@@ -26,7 +26,6 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 #- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 -->
 
-Welcome to my portfolio! Here you can find my projects and details about my experience.
 ![Power BI](https://img.shields.io/badge/Business%20Intelligence-Power%20BI-informational?style=flat&logo=powerbi&color=F2C811)
 ![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sqlite&color=003B57)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
@@ -42,8 +41,8 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 
 ### Projet 1 : Analyse de la performance de lignes de presses   
 - **Description** : Analyse de la performance des moyens industriels du Site de production STELLANTIS à Sochaux. Il s'agit de définir un tableau de bord avec les KPIs principaux, de donner les moyens d'analyses des arrêts et pannes, et de suivre l'evolutions des la performance en fonctions des equipements et des gammes  
-- **Technologies** : Python, Pandas, Matplotlib, SQL, PowerBi. 
-- <!-- [Lien vers le projet](https://github.com/Yacine-Hamdi/Netflix)
+- **Technologies** : Python, Pandas, Matplotlib, SQL, PowerBi.
+<!-- [Lien vers le projet](https://github.com/Yacine-Hamdi/Netflix)
 - <!--- **Lien vers le projet** : [lien vers le projet GitHub]() -->
 
 ### Projet 2 : Matrice de compétences des équipes
@@ -52,12 +51,12 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 <!--- **Lien vers le projet** : [lien vers le projet GitHub]() -->
 
 ### Projet 3 : Suivi du Stock de matière première
-- **Description** : Application d'un modèles permettant de suivre les stocks de matière.
+- **Description** : Application d'un modèle permettant de suivre les stocks de matière.
 - **Technologies** : PowerBI.
 <!--- **Lien vers le projet** : [lien vers le projet GitHub]() -->
 
 ### Projet 4: Suivi des effectifs et des heures de production réalisées
-- **Description** : Application d'un modèles permettant de suivre les effectifs des équipes de productions.
+- **Description** : Application d'un modèle permettant de suivre les effectifs des équipes de productions.
 - **Technologies** : PowerBI.
 <!--- **Lien vers le projet** : [lien vers le projet GitHub]() -->
 
