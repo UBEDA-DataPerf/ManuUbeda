@@ -32,9 +32,8 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 
 ## Download My CV
 
-[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/UBEDA-DataPerf/ManuUbeda/blob/d2d7a0f27ac7bfa964f32cd80b2c8f717136f068/CV%20Ubeda.pdf)
-[Click here to download my CV](https://github.com/UBEDA-DataPerf/ManuUbeda/blob/d2d7a0f27ac7bfa964f32cd80b2c8f717136f068/CV%20Ubeda.pdf)
-
+[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)]([https://github.com/UBEDA-DataPerf/ManuUbeda/blob/d2d7a0f27ac7bfa964f32cd80b2c8f717136f068/CV%20Ubeda.pdf](https://github.com/UBEDA-DataPerf/ManuUbeda/blob/7a033f85ed5c8582a7948c0ae904bae2aa25b656/CV%20UBEDA%20Data.pdf))
+[Click here to download my CV](https://github.com/UBEDA-DataPerf/ManuUbeda/blob/7a033f85ed5c8582a7948c0ae904bae2aa25b656/CV%20UBEDA%20Data.pdf)
 
 
 # Mes projets 📺
